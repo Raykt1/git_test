@@ -1,0 +1,1 @@
+Hi this is my first text file in VS code while studying odin's project curriculum.
